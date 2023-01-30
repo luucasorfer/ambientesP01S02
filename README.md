@@ -28,7 +28,6 @@ Este projeto é exclusivo do curso Explorer, promovido pela Rocketseat para ensi
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- JavaScript
 - Git e Github
 - Figma
 
@@ -36,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Criação de uma página estática utilizando todos os recursos ensinados durante o módulo 2 do curso. 
 
-- [Acesse o projeto finalizado, online](https://luucasorfer.github.io/nlw-setup)
+- [Acesse o projeto finalizado, online](https://luucasorfer.github.io/ambientesP01S02/)
 
 ## 🔖 Layout
 
