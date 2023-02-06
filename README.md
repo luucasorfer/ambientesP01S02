@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto 01 - Ambientes </h1>
+<h1 align="center"> Ambientes </h1>
 
 <p align="center">
 Este projeto é exclusivo do curso Explorer, promovido pela Rocketseat para ensino de tecnologias WEB. </br>
